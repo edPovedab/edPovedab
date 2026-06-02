@@ -47,7 +47,6 @@
 
 <br/>
 
-[![Ver Portfolio Completo](https://img.shields.io/badge/%F0%9F%9A%80%20Ver%20Portfolio%20Completo-edPovedab.github.io-00d4ff?style=for-the-badge&labelColor=0d1117&color=00d4ff)](https://edPovedab.github.io)
 
 </div>
 
