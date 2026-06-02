@@ -1,137 +1,191 @@
-Eduardo Poveda Benavides
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Eduardo%20Poveda&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Finance%20Analyst%20%7C%20SAP%20Specialist%20%7C%20Systems%20Engineer%20(in%20progress)&descAlignY=55&descSize=18" width="100%"/>
+
+<!-- Header animado con typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Finance+Analyst+%E2%86%92+Systems+Engineer;AP+Automation+at+Roche;Python+%2B+SAP+%2B+AI+in+Finance;Bridging+Finance+%26+Technology+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Status badge -->
+![Status](https://img.shields.io/badge/Status-Abierto%20a%20oportunidades-00d4ff?style=for-the-badge&logo=circle&logoColor=white)
+![Location](https://img.shields.io/badge/📍-Heredia%2C%20Costa%20Rica-0d1117?style=for-the-badge)
+
 </div>
-<!-- Quick Info -->
+
+---
+
+## 👨‍💻 `> whoami`
+
+```json
+{
+  "name":      "Eduardo Poveda Benavides",
+  "role":      "Finance Systems Engineer",
+  "company":   "Roche",
+  "origin":    "Heredia, Costa Rica 🇨🇷",
+  "superpower": [
+    "Detectar ineficiencias",
+    "Diseñar soluciones",
+    "Construirlas yo mismo"
+  ],
+
+  "stack": {
+    "mastered": ["SAP FI", "Excel VBA", "AP Process Management"],
+    "building":  ["Python", "AI/ML", "SQL"],
+    "next":      ["FinTech APIs", "Data Engineering"]
+  },
+
+  "available": true  // ← abierto a nuevas oportunidades
+}
+```
+
+> No soy un desarrollador que pretende entender finanzas, ni un profesional de finanzas aprendiendo tech como hobby.  
+> **Genuinamente entiendo ambos mundos.** Ese cruce es donde sucede la innovación real.
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://img.shields.io/badge/📍%20Location-Heredia,%20Costa%20Rica-1f425f?style=for-the-badge&labelColor=black&color=00D4FF" alt="Location"/>
-  <img src="https://img.shields.io/badge/💼%20Role-AP%20Analyst%20at%20Roche-1f425f?style=for-the-badge&labelColor=black&color=00D4FF" alt="Role"/>
-  <img src="https://img.shields.io/badge/🎓%20Studying-Systems%20Engineering-1f425f?style=for-the-badge&labelColor=black&color=00D4FF" alt="Education"/>
-  <img src="https://img.shields.io/badge/🔍%20Exploring-Python%20%7C%20AI-1f425f?style=for-the-badge&labelColor=black&color=00D4FF" alt="Learning"/>
+
+### Enterprise & Finance
+![SAP](https://img.shields.io/badge/SAP%20ERP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP FI](https://img.shields.io/badge/SAP%20FI-00B0FF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP VIM](https://img.shields.io/badge/SAP%20VIM-0066CC?style=for-the-badge&logo=sap&logoColor=white)
+
+### Data & Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel%20%2F%20VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Building 🚀
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 </div>
-<br>
-
-# Eduardo Poveda Benavides
-
-**Finance Analyst | SAP Specialist | Systems Engineer (in progress)**
-
-Heredia, Costa Rica | edupove24@gmail.com | [LinkedIn](https://www.linkedin.com/in/eduardo-poveda-benavides)
 
 ---
 
-## About Me
+## 📊 GitHub Stats
 
-Finance Analyst at Roche with 3+ years of experience in Accounts Payable operations and SAP systems. Currently studying Systems Engineering while building skills in Python and AI to transition toward software development.
+<div align="center">
 
-**Experience Timeline:**
-- **Roche** (Jan 2025 - Present): AP Jr Analyst
-- **Accenture** (2021 - 2024): Vendor Master Data Analyst & AP Analyst (GLOBAL)
-- **Education**: Business Administration (Complete), Systems Engineering (68% complete)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=edPovedab&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff&text_color=dce6f5&ring_color=00d4ff" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edPovedab&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=dce6f5" />
 
----
+</div>
 
-## Professional Experience
+<div align="center">
 
-### AP Jr Analyst at Roche
-*January 2025 - Present*
+[![GitHub Streak](https://streak-stats.demolab.com?user=edPovedab&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=7b2fff&currStreakLabel=00d4ff)](https://git.io/streak-stats)
 
-- Process invoices in SAP FI module (FB08, FB03, FBL1N) ensuring accuracy and compliance
-- Resolve goods receipt rejections by analyzing PO mismatches and implementing corrective actions
-- Support regional EMEA teams with invoice troubleshooting and vendor communication
-- Lead quality assurance initiative extracting invoice data and generating quality reports
-- Contribute to process improvement projects monitoring posting accuracy
-
-### Vendor Master Data Analyst at Accenture
-*2022 - 2024*
-
-- Managed vendor master data creation and maintenance across EMEA regions
-- Achieved 99% data accuracy and 3-day vendor request turnaround time
-- Reduced process management time by 30% through Excel automation and templates
-- Developed process documentation for refunds, credits, and debits
-- Trained new team members on AP procedures and vendor management
-- Managed end-to-end refund processing workflows
-
-### AP Analyst at Accenture
-*2021 - 2022*
-
-- Processed invoices across EMEA, APAC, NORAM, and LATAM regions
-- Provided helpdesk support for invoice-related inquiries
-- Generated Excel reports for process monitoring
+</div>
 
 ---
 
-## Technical Skills
+## 🚀 Proyectos Activos
 
-**Enterprise Systems**
-- SAP ERP (FI Module)
-- SAP Transaction Codes: FB08, FB03, FB01, FBL1N, ME23N, MIRO, VIM
-- Vendor Information Management (VIM)
+### ⚡ Quality Assurance Intelligence System
+> *En progreso · Roche*
 
-**Data & Process**
-- Excel Advanced (VLOOKUP, IF, COUNTIF, SUMIF, Pivot Tables, Power Query)
-- Invoice processing and three-way matching
-- Process documentation and standardization
-- Quality assurance and data validation
+Sistema automatizado de extracción de datos SAP para control de calidad de facturas. Dashboard de métricas en tiempo real con reconocimiento de patrones y alertas por desviaciones.
 
-**Development (Foundation)**
-- Python (Learning)
-- Java (Foundational)
-- HTML5, CSS3, JavaScript
-- MySQL, Oracle, Firebase
-- Git/GitHub
+```
+50 facturas: 4 horas → 15 minutos
+```
 
-**Languages**
-- Spanish (Native)
-- English (B2 Professional)
+`Python` `SAP Integration` `Data Analysis` `Dashboards`
 
 ---
 
-## Current Focus
+### 📈 SAP Process Automation Scripts
+> *En progreso · Roche*
 
-**Professional Projects at Roche:**
-- Quality Assurance Initiative - Leading data analysis for process improvement
-- SAP script to post invoices
+Scripts Python para automatizar el posting de facturas en SAP con validación automática, logging de transacciones y flag de errores.
 
-**Learning:**
-- Python for data automation and process optimization
-- AI/ML basics with focus on finance applications
-- Advanced SAP configuration
+```
+Meta: 5× más volumen con el mismo equipo (-60% entrada manual)
+```
 
----
-
-## Key Achievements
-
-- 99% data accuracy in vendor management across EMEA/LATAM/APAC/NORAM
-- 30% reduction in process management time through automation
-- 3-day turnaround time for vendor data requests
-- Successfully trained multiple team members on AP procedures
-- Led quality improvement initiatives resulting in better posting accuracy
+`Python` `SAP FI` `Automation` `SQL`
 
 ---
 
-## Career Goals
+### 🔗 Finance Data Pipeline
+> *Proyecto personal*
 
-**2025:**
-- Excel in AP Analyst role at Roche
-- Deepen Python skills for data automation
-- Begin structured learning in AI/ML
+Pipeline ETL en Python para extraer, transformar y cargar datos financieros de múltiples fuentes hacia una plataforma de analytics con generación de reportes inteligentes.
 
-**2025-2026:**
-- Complete Systems Engineering degree
-- Build finance automation projects combining Python, Excel, and SAP
-- Develop as Finance Systems specialist
+```
+Objetivo: Bridge Finance + Data Science
+```
 
-**2026+:**
-- Transition to Software Development or Finance Technology role
-- Specialize in AI-powered finance automation
-- Target FinTech or Enterprise Systems roles
+`Python ETL` `MySQL` `Analytics` `AI/ML`
 
 ---
 
-## Why This Matters
+## 📈 Métricas de Impacto
 
-I bring real finance domain knowledge combined with growing technical skills. I'm not pretending to be a full-stack developer yet—I'm building that foundation while delivering value in my current role. This honest approach and clear vision guide my career development.
+<div align="center">
+
+| Métrica | Valor |
+|---------|-------|
+| 🎯 Integridad de datos (4 regiones globales) | **99%** |
+| ⚡ Reducción de tiempo via automatización | **30%** |
+| 📄 Facturas procesadas globalmente | **50K+** |
+| 🌍 Regiones globales atendidas | **4** (EMEA · LATAM · APAC · NORAM) |
+| ⏱ Turnaround en solicitudes de datos | **3 días** |
+| 👥 Equipos entrenados en AP | **5+** |
+
+</div>
 
 ---
 
-**Last Updated: June 2025**
+## 💼 Trayectoria
+
+```
+2025 – Presente  │  AP Jr Analyst @ 🔵 Roche
+                 │  SAP FI · Python · Data QA · EMEA Support
+                 │
+2022 – 2024      │  Vendor Master Data Analyst @ 🟣 Accenture
+                 │  Excel VBA · SAP VIM · Power Query · 99% data integrity
+                 │
+2021 – 2022      │  AP Analyst @ 🟣 Accenture
+                 │  50K+ facturas · Excel Dashboards · inicio del journey Finance→Tech
+```
+
+---
+
+## 🎓 Educación
+
+- 🖥️ **Ingeniería en Sistemas** — Universidad Fidélitas *(68% completado · en curso)*
+- 🏛️ **Administración de Empresas** — Universidad de Costa Rica *(✅ Completado)*
+- 🗣️ **Idiomas:** Español (nativo) · Inglés B2 (profesional técnico)
+
+---
+
+## 🤝 Conectemos
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/edupove24%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edupove24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Eduardo%20Poveda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-poveda-benavides)
+[![GitHub](https://img.shields.io/badge/@edPovedab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edPovedab)
+
+<br/>
+
+*Buscando conversaciones sobre automatización en finanzas, IA aplicada a procesos empresariales,*  
+*y cómo el expertise de dominio + código = innovación real.*
+
+<br/>
+
+![Footer](https://img.shields.io/badge/Always%20Learning%2C%20Always%20Building-🚀-0d1117?style=for-the-badge&labelColor=0d1117&color=00d4ff)
+
+</div>
+
+---
+
+<div align="center">
+<sub>© 2025 Eduardo Poveda · Hecho con ☕ y código</sub>
+</div>
