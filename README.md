@@ -70,14 +70,9 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=edPovedab&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff&text_color=dce6f5&ring_color=00d4ff" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edPovedab&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=dce6f5" />
-
 </div>
-
 <div align="center">
-
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=edPovedab&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=7b2fff&currStreakLabel=00d4ff)](https://git.io/streak-stats)
 
 </div>
