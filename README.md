@@ -25,8 +25,8 @@ Finance Analyst at Roche with 3+ years of experience in Accounts Payable operati
 
 **Experience Timeline:**
 - **Roche** (Jan 2025 - Present): AP Jr Analyst
-- **Accenture** (2021 - 2024): Vendor Master Data Analyst & AP Analyst (EMEA)
-- **Education**: Business Administration (Complete), Systems Engineering (58% complete)
+- **Accenture** (2021 - 2024): Vendor Master Data Analyst & AP Analyst (GLOBAL)
+- **Education**: Business Administration (Complete), Systems Engineering (68% complete)
 
 ---
 
@@ -82,7 +82,7 @@ Finance Analyst at Roche with 3+ years of experience in Accounts Payable operati
 
 **Languages**
 - Spanish (Native)
-- English (B1-B2 Professional)
+- English (B2 Professional)
 
 ---
 
@@ -113,7 +113,6 @@ Finance Analyst at Roche with 3+ years of experience in Accounts Payable operati
 
 **2025:**
 - Excel in AP Analyst role at Roche
-- Transition to Flatfiles & Interface Management position (internal move)
 - Deepen Python skills for data automation
 - Begin structured learning in AI/ML
 
