@@ -89,8 +89,8 @@ Finance Analyst at Roche with 3+ years of experience in Accounts Payable operati
 ## Current Focus
 
 **Professional Projects at Roche:**
-- Flatfiles & Interface Management - Building expertise in bulk invoice processing
 - Quality Assurance Initiative - Leading data analysis for process improvement
+- SAP script to post invoices
 
 **Learning:**
 - Python for data automation and process optimization
