@@ -6,7 +6,6 @@
 
 [![Status](https://img.shields.io/badge/%E2%9A%A1_STATUS-Abierto%20a%20oportunidades-00d4ff?style=for-the-badge&labelColor=0d1117)](https://edPovedab.github.io)
 [![Location](https://img.shields.io/badge/%F0%9F%93%8D_LOCATION-Heredia%2C%20Costa%20Rica-0d1117?style=for-the-badge&labelColor=0d1117&color=3d5070)](https://edPovedab.github.io)
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_PORTFOLIO-edPovedab.github.io-7b2fff?style=for-the-badge&labelColor=0d1117)](https://edPovedab.github.io)
 
 </div>
 
